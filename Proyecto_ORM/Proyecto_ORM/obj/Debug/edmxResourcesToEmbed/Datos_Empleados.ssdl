@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmpleadosModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errores durante la generación:
+advertencia 6002: La tabla o vista 'Empleados.dbo.Empleados' no tiene definida ninguna clave principal. Se ha inferido la clave y la definición se creado como una vista o tabla de solo lectura.-->
+  <EntityType Name="Empleados">
+    <Key>
+      <PropertyRef Name="NEmpleado" />
+      <PropertyRef Name="Nombre" />
+      <PropertyRef Name="Apellidos" />
+      <PropertyRef Name="Telefono" />
+      <PropertyRef Name="Carrera" />
+    </Key>
+    <Property Name="NEmpleado" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="Apellidos" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="Telefono" Type="varchar" MaxLength="12" Nullable="false" />
+    <Property Name="Carrera" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="EmpleadosModelStoreContainer">
+    <EntitySet Name="Empleados" EntityType="Self.Empleados" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Empleados].[NEmpleado] AS [NEmpleado], 
+    [Empleados].[Nombre] AS [Nombre], 
+    [Empleados].[Apellidos] AS [Apellidos], 
+    [Empleados].[Telefono] AS [Telefono], 
+    [Empleados].[Carrera] AS [Carrera]
+    FROM [dbo].[Empleados] AS [Empleados]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

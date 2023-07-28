@@ -1,0 +1,17 @@
+C:\Users\IEEN-204\source\repos\Proyecto_ORM\Proyecto_ORM\bin\Debug\Proyecto_ORM.exe.config
+C:\Users\IEEN-204\source\repos\Proyecto_ORM\Proyecto_ORM\bin\Debug\Proyecto_ORM.exe
+C:\Users\IEEN-204\source\repos\Proyecto_ORM\Proyecto_ORM\bin\Debug\Proyecto_ORM.pdb
+C:\Users\IEEN-204\source\repos\Proyecto_ORM\Proyecto_ORM\bin\Debug\EntityFramework.dll
+C:\Users\IEEN-204\source\repos\Proyecto_ORM\Proyecto_ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IEEN-204\source\repos\Proyecto_ORM\Proyecto_ORM\bin\Debug\EntityFramework.xml
+C:\Users\IEEN-204\source\repos\Proyecto_ORM\Proyecto_ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IEEN-204\source\repos\Proyecto_ORM\Proyecto_ORM\obj\Debug\Proyecto_ORM.csproj.AssemblyReference.cache
+C:\Users\IEEN-204\source\repos\Proyecto_ORM\Proyecto_ORM\obj\Debug\Proyecto_ORM.csproj.SuggestedBindingRedirects.cache
+C:\Users\IEEN-204\source\repos\Proyecto_ORM\Proyecto_ORM\obj\Debug\Proyecto_ORM.Main.resources
+C:\Users\IEEN-204\source\repos\Proyecto_ORM\Proyecto_ORM\obj\Debug\Proyecto_ORM.Properties.Resources.resources
+C:\Users\IEEN-204\source\repos\Proyecto_ORM\Proyecto_ORM\obj\Debug\Proyecto_ORM.csproj.GenerateResource.cache
+C:\Users\IEEN-204\source\repos\Proyecto_ORM\Proyecto_ORM\obj\Debug\Proyecto_ORM.csproj.CoreCompileInputs.cache
+C:\Users\IEEN-204\source\repos\Proyecto_ORM\Proyecto_ORM\obj\Debug\Proyecto_ORM.csproj.CopyComplete
+C:\Users\IEEN-204\source\repos\Proyecto_ORM\Proyecto_ORM\obj\Debug\Proyecto_ORM.exe
+C:\Users\IEEN-204\source\repos\Proyecto_ORM\Proyecto_ORM\obj\Debug\Proyecto_ORM.pdb
+C:\Users\IEEN-204\source\repos\Proyecto_ORM\Proyecto_ORM\obj\Debug\Proyecto_ORM.Registro_Empleado.resources
